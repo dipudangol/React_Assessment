@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Simple SPA to extract data from https://randomuser.me and use filter by gender.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
